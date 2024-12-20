@@ -1,0 +1,91 @@
+{
+  "hash": "ba7c2bce",
+  "configHash": "e28e5a78",
+  "lockfileHash": "13945c48",
+  "browserHash": "a33120d0",
+  "optimized": {
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "24e689f1",
+      "needsInterop": true
+    },
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "7ac7eb69",
+      "needsInterop": true
+    },
+    "@google/generative-ai": {
+      "src": "../../node_modules/@google/generative-ai/dist/index.mjs",
+      "file": "@google_generative-ai.js",
+      "fileHash": "aa7351be",
+      "needsInterop": false
+    },
+    "react-type-animation": {
+      "src": "../../node_modules/react-type-animation/dist/esm/index.es.js",
+      "file": "react-type-animation.js",
+      "fileHash": "d28637c8",
+      "needsInterop": false
+    },
+    "react-markdown": {
+      "src": "../../node_modules/react-markdown/index.js",
+      "file": "react-markdown.js",
+      "fileHash": "14b5e1b0",
+      "needsInterop": false
+    },
+    "rehype-raw": {
+      "src": "../../node_modules/rehype-raw/index.js",
+      "file": "rehype-raw.js",
+      "fileHash": "e373ef6e",
+      "needsInterop": false
+    },
+    "remark-gfm": {
+      "src": "../../node_modules/remark-gfm/index.js",
+      "file": "remark-gfm.js",
+      "fileHash": "96adffbc",
+      "needsInterop": false
+    },
+    "react-plotly.js": {
+      "src": "../../node_modules/react-plotly.js/react-plotly.js",
+      "file": "react-plotly__js.js",
+      "fileHash": "3fbcfad8",
+      "needsInterop": true
+    },
+    "papaparse": {
+      "src": "../../node_modules/papaparse/papaparse.min.js",
+      "file": "papaparse.js",
+      "fileHash": "10f618d1",
+      "needsInterop": true
+    },
+    "reactflow": {
+      "src": "../../node_modules/reactflow/dist/esm/index.mjs",
+      "file": "reactflow.js",
+      "fileHash": "2c3a52e8",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-YOJ25MZK": {
+      "file": "chunk-YOJ25MZK.js"
+    },
+    "chunk-WPZ7AFJK": {
+      "file": "chunk-WPZ7AFJK.js"
+    },
+    "chunk-P4LEE4VA": {
+      "file": "chunk-P4LEE4VA.js"
+    },
+    "chunk-KHEGHKHT": {
+      "file": "chunk-KHEGHKHT.js"
+    },
+    "chunk-EBUSIK3M": {
+      "file": "chunk-EBUSIK3M.js"
+    },
+    "chunk-TXWKGKUG": {
+      "file": "chunk-TXWKGKUG.js"
+    },
+    "chunk-DC5AMYBS": {
+      "file": "chunk-DC5AMYBS.js"
+    }
+  }
+}
